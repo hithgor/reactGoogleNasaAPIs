@@ -1,0 +1,27 @@
+.geoboxSection {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    height: fit-content;
+    margin-top: 5%;
+    h1 {
+        width: 70%;
+        margin-right: 25%;
+    }
+    .geocoderContainer {
+        width: 100%;
+    }
+    .mapImagesContainer {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: 50px;
+        width: 60%;
+        @media (max-width: 1700px) {
+            flex-direction: column;
+            justify-content: space-around;
+          }
+    }
+
+}
