@@ -16,5 +16,6 @@ Can't offer any user-friendlier and RWDier interface due to self-imposed time li
 As it stands, geobox keeps all components together and there's a flat component hierarchy structure. Within my standard way of working I've got a page as a main component to display, and component-sections structured accordingly.
 
 Looking forward to some heavy-ass feedback.
+
 Yours truly, 
 Daniel Chwesiuk ;]
